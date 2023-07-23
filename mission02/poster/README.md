@@ -7,6 +7,8 @@
 ---
 ## 결과
 
+![Elemental-Movie-Poster-Chrome-2023-07-23-21-17-05](https://github.com/yenaf/js-homework/assets/115360074/8261b66b-fc47-44ac-9ec1-3f73f33544bb)
+
 ---
 ### 요구 사항
 
